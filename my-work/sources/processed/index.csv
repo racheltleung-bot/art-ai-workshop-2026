@@ -1,0 +1,4 @@
+﻿source_id,file_name,relative_path,locator_type,locator,section_label,description,checksum_sha256,added_on,status
+SRC-0001,2026-11-02_TEST-EXAMPLE_qianlong-inscription.txt,sources/raw/2026-11-02_TEST-EXAMPLE_qianlong-inscription.txt,page,p.1,拓片右上區,測試示例；虛構題記開頭（年款與齋名）,a9ad2cef7b9d2eea75b1dcf4ba8532707261862fe488d6bb37380a006b9cdda4,2026-11-02,test-only
+SRC-0001,2026-11-02_TEST-EXAMPLE_qianlong-inscription.txt,sources/raw/2026-11-02_TEST-EXAMPLE_qianlong-inscription.txt,page,p.2,拓片中央區（主文）,測試示例；虛構七言對句主文,a9ad2cef7b9d2eea75b1dcf4ba8532707261862fe488d6bb37380a006b9cdda4,2026-11-02,test-only
+SRC-0001,2026-11-02_TEST-EXAMPLE_qianlong-inscription.txt,sources/raw/2026-11-02_TEST-EXAMPLE_qianlong-inscription.txt,page,p.3,拓片左下區（款識與印記）,測試示例；虛構臣字款與漫漶印記,a9ad2cef7b9d2eea75b1dcf4ba8532707261862fe488d6bb37380a006b9cdda4,2026-11-02,test-only
